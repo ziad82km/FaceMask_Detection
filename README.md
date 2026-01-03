@@ -24,15 +24,11 @@
 
 🛠️التقنيات المستخدمة:
 
-                                                                                                                                                                                                               Python
-
-                                                                                                                                                                                                            Streamlit
-
-                                                                                                                                                                                                   YOLO (Ultralytics)
-                                                                                                                                                                                                  
-                                                                                                                                                                                                         OpenCV / PIL
-                                                                                                                                                                                                  
-                                                                                                                                                                                                               Docker
+                                                                                                                                                            Python
+                                                                                                                                                          Streamlit
+                                                                                                                                                  YOLO (Ultralytics)
+                                                                                                                                                        OpenCV / PIL
+                                                                                                                                                              Docker
 
 ===============================================
 
