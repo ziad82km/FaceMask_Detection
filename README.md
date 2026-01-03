@@ -4,6 +4,8 @@
 
 يقوم المستخدم برفع صورة، ثم يقوم النظام بتحليلها واكتشاف الوجوه وتحديد ما إذا كان الشخص يرتدي كمامة أم لا، مع عرض النتيجة بصريًا بطريقة واضحة وسهلة. في الحالة المتعلقة بعم ارتداء الكمامة يشمل أيضاً عدم استخدامها بشكل صحيح, سواء تحت الأنف, أو تحت الأذن
 
+
+
 ✨ مميزات المشروع:
 
 واجهة مستخدم تفاعلية وجذابة
@@ -18,17 +20,19 @@
 
 جاهز للنشر على Hugging Face Spaces باستخدام Docker
 
-🛠️ التقنيات المستخدمة:
 
-Python
 
-Streamlit
+🛠️التقنيات المستخدمة:
 
-YOLO (Ultralytics)
+                                                                                                                                                                                                               Python
 
-OpenCV / PIL
+                                                                                                                                                                                                            Streamlit
 
-Docker
+                                                                                                                                                                                                   YOLO (Ultralytics)
+                                                                                                                                                                                                  
+                                                                                                                                                                                                         OpenCV / PIL
+                                                                                                                                                                                                  
+                                                                                                                                                                                                               Docker
 
 ===============================================
 
@@ -37,6 +41,9 @@ Docker
 This project is an interactive web application built with Streamlit that detects whether people in images are wearing face masks, using a pre-trained YOLO model.
 
 Users can upload an image, and the system analyzes it to detect faces and classify them as Mask or No Mask, then displays the detection results visually in a clear and user-friendly way.
+
+
+
 
 ✨ Key Features:
 
@@ -51,6 +58,9 @@ AI-based computer vision model
 Efficient session state management
 
 Ready for deployment on Hugging Face Spaces using Docker
+
+
+
 
 🛠️ Technologies Used:
 
