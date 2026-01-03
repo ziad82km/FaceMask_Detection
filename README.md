@@ -20,16 +20,6 @@
 
 جاهز للنشر على Hugging Face Spaces باستخدام Docker
 
-
-
-🛠️التقنيات المستخدمة:
-
-                                                                                                                                                            Python
-                                                                                                                                                          Streamlit
-                                                                                                                                                  YOLO (Ultralytics)
-                                                                                                                                                        OpenCV / PIL
-                                                                                                                                                              Docker
-
 ===============================================
 
 😷 Face Mask Detection System Using AI
