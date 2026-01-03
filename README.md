@@ -31,6 +31,7 @@ OpenCV / PIL
 
 Docker
 
+===============================================
 
 😷 Face Mask Detection System Using AI
 
