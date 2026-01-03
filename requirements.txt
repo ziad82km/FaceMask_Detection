@@ -1,0 +1,15 @@
+# Core
+streamlit
+
+# Computer vision
+opencv-python-headless
+Pillow
+numpy
+
+# PyTorch & Ultralytics YOLO
+torch
+torchvision
+ultralytics
+
+# Optional: for smoother video handling if تريد إضافة فيديو لاحقًا
+# ffmpeg-python==0.5.0
